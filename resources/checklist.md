@@ -51,13 +51,41 @@ Catering Volunteer:
 ## 2 days before the event:
 
 Attendee Volunteer:
-- [ ] Send an email to the attendees to remind them of the location and that they should bring their device
+- [ ] Send an email to the attendees to remind them of the location and that they should bring their device ([there is a pre-event email template here](https://github.com/HospitalRun/events/resources/pre-event_email.md))
 
 
+## Day of the Event
 
-## Days of the Event
+Venue Volunteer:
 
-##### Agenda
+ - [ ] Make sure you have the wifi password and know the location of the restrooms
+ - [ ] Make sure the room is set up accordingly
+ - [ ] Test the A/V equipment and make sure you can run slides
+ - [ ] Make sure you know where to go and who to call in case of emergency
+ 
+ Catering Volunteer:
+ 
+ - [ ] Make sure you know what food is coming and when
+ - [ ] Pick up any last minute items
+ - [ ] Setup food as it arrives, make sure area is cleaned up throughout the event
+ - [ ] Make sure food for dietary restrictions is clearly marked so those who need it can easily find it
+ - [ ] Chill drinks before the event, and keep the cooler stocked
+  
+ Emcee Volunteer:
+ 
+ - [ ] Make sure you know the agenda and how things will go
+ - [ ] At the start of the event, make sure you announce some housekeeping items (wifi password, restroom locations, Code of Conduct reminder, anything else specific for the event)
+ - [ ] Be sure to point out the other HospitalRun volunteers so people can ask questions of them if needed
+ - [ ] Introduce yourself individually a lot, since you're the face of the event
+ 
+ Attendee Coordinator Volunteer:
+ 
+ - [ ] Make sure you have the check in list to checking people in
+ - [ ] If there are any handouts, nametags, or stickers to give at registration, make sure you have those ready
+  
+  
+
+##### Hackathon Agenda
 
 | Time | Activity |
 |---|---|
