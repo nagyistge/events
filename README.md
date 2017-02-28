@@ -1,4 +1,4 @@
-# HospitalRun #vents
+# HospitalRun
 _This repository is where we plan and document hack events._
 
 HospitalRun events are typically hack events where we invite contributors to get together and work on HospitalRun. For more information check out http://hospitalrun.io/events/.
