@@ -28,7 +28,7 @@
 ## 2-3 months before event 
 
  Venue volunteer: 
- - [ ] Find a venue. [Venue requirements are here]()
+ - [ ] Find a venue. [Venue requirements are here](https://github.com/HospitalRun/events/resources/venue_requirements.md)
  - [ ] Confirm date 
  - [ ] Confirm with interested volunteers that they are willing and able to attend on that date 
  - [ ] **Site visit, if possible.** If you're local, and if it's possible, a quick check of the site to confirm it meets our needs, and so you can envision where things will be set up
@@ -46,7 +46,7 @@ Attendee Coordinator volunteer:
 ## 3-5 days before event
 
 Catering Volunteer:
-- [ ] Finalize catering, sodas, paper goods based on registration numbers ([catering requirements are here]())
+- [ ] Finalize catering, sodas, paper goods based on registration numbers ([catering requirements are here](https://github.com/HospitalRun/events/resources/catering_requirements.md))
 
 ## 2 days before the event:
 
